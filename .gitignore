@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+
+# dataclaw_bridge run artifacts (contain benchmark ground truth)
+/cache/
+/outputs/
